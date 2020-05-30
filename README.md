@@ -1,5 +1,5 @@
 # autodm_base
-This is a twitter bot that works like others auto base account (tubirfess, askmenfess etc). Built using python3.
+This is a twitter bot that works like others auto base account (tubirfess, askmenfess etc). Built using python3..
 
 ## Please read!
 - If you want some insight of this repo look likes, please go to my tutorial https://www.youtube.com/watch?v=_U5Uhf4odss <br>
